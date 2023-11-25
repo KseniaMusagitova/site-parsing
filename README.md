@@ -1,8 +1,7 @@
 # Project Name: 
 Apartment Scraper
 
-#
-Description:
+# Description:
 Apartment Scraper is a Python tool for gathering information about apartments available for sale on stroka.kg. The script parses multiple pages of the website, extracting prices, room counts, area, and links for each apartment.
 
 # Usage:
